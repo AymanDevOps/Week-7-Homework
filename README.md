@@ -1,5 +1,5 @@
 # Week-7-Homework
-```
+
 # Tic Tac Toe Project
 
 This project implements the classic game of Tic Tac Toe, where two players take turns to place their mark (either "X" or "O") on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
@@ -36,4 +36,4 @@ Day 4 of the JS30 challenge puts focus on array methods and their practical appl
 - `sort()`: To sort the elements of an array in place.
 - `reduce()`: To execute a reducer function on each member of the array.
 
-```
+
